@@ -1,7 +1,7 @@
-### Olá! Eu sou o Geovane Ganeo
+### Hello! Iam Geovane Ganeo
 
-- 💼 Hoje trabalho com Infraestrutura de TI e Cybersegurança
-- 💻 Formado em Segurança da Informação e Pós Graduando em Segurança Ofensiva
+- 💼 I currently work with IT infrastructure and cybersecurity
+- 💻 Graduated in Information Security and postgraduate in Offensive Security
 
 <div>
   <a href="https://github.com/geovaneganeo">
